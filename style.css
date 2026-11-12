@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.navbar {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    font-size: 1.1rem;
+    justify-content: space-between;
+    justify-content: center;
+    margin-top: 40px;
+    border-radius: 50px;
+    background-color: rgb(180, 206, 206);
+    gap: 50px;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gainsboro;
+}
+
+.first1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    border: solid;
+    border-color: gray;
+}
+
+.first2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    border: solid;
+    border-color: gray;
+}
+
+.first3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    border: solid;
+    border-color: gray;
+}
+
+.first4 {
+    padding-top: 30px;
+}
+
+.first5 {
+    padding: 50px;
+}
+
+.main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img {
+    margin-top: 30px;
+}
+
+.img img {
+    border-radius: 30px;
+}
+
+.main2 {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
